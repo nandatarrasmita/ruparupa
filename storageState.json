@@ -1,0 +1,211 @@
+{
+  "cookies": [
+    {
+      "name": "sl-session",
+      "value": "lQGyKIs+oWgJ0lH3ds38jQ==",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755397768.68997,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rr-sid",
+      "value": "ORtT21755311368i28H10Sitx",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1786847368,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1214845758.1755311369",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1789871369.235496,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "af_id",
+      "value": "7bdbc995-58fe-408f-9614-96553da16945-p",
+      "domain": ".appsflyer.com",
+      "path": "/",
+      "expires": 1789439374.430098,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "afUserId",
+      "value": "7bdbc995-58fe-408f-9614-96553da16945-p",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1789871374.439454,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "af_id",
+      "value": "7bdbc995-58fe-408f-9614-96553da16945-p",
+      "domain": ".onelink.me",
+      "path": "/",
+      "expires": 1789439369.783159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AF_SYNC",
+      "value": "1755311369785",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755916169,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lcl9pZCI6ODczMjU3NSwiaWF0IjoxNzU1MzExMzc0LCJpc3MiOiJKS2tsMHp0ZHZMIn0.z6glZcoLmHdpjOj_x5iObdqk4WrfXOJgXSGkavk0SBk",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1786847370,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionrupaUID",
+      "value": "NRQxadPNDxOBIdm1755311370J2oF7OmYtoNnuIb",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1786847370,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "geolocation",
+      "value": "-6.1866784%2C106.7441048",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ALGOLIA",
+      "value": "anonymous-8849fd18-fe6b-4344-b6e2-f79a09a30186",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1770863371,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is_geolocation",
+      "value": "true",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755397771,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp-session-ODI",
+      "value": "1",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755313174,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp-session-global",
+      "value": "1",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755313174,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ugid",
+      "value": "1755311372xrX6MSrdp84cEU9OuRo7MfCW5jFBYv",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1786847372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "algolia_ssr",
+      "value": "38a2589a61bd32b386894fcc47b18a5507e5c93beaa0bfc2c641d440062aea28",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "interval_fetch_membership",
+      "value": "true",
+      "domain": "beta.www.ruparupastg.my.id",
+      "path": "/",
+      "expires": 1755311432,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_D0312NRJ5X",
+      "value": "GS2.1.s1755311369$o1$g1$t1755311374$j55$l0$h0",
+      "domain": ".ruparupastg.my.id",
+      "path": "/",
+      "expires": 1789871374.153921,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://beta.www.ruparupastg.my.id",
+      "localStorage": [
+        {
+          "name": "SHIPPING_LOCATION",
+          "value": "{\"address_name\":\"Z1\",\"full_address\":\"Jakarta\",\"geolocation\":\"-6.1866784,106.7441048\"}"
+        },
+        {
+          "name": "AF_SESSION",
+          "value": "1755311374071"
+        },
+        {
+          "name": "__mpq_4d121bb79be4af686aa29040ffc19f99_pp",
+          "value": "[{\"id\":\"cyy80k44yxb4i6co\",\"flushAfter\":1755311384321,\"payload\":{\"$set\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$browser_version\":139,\"$moengage_user_id\":8732575},\"$token\":\"4d121bb79be4af686aa29040ffc19f99\",\"$distinct_id\":8732575,\"$device_id\":\"0138b3fa-85df-47cb-a7b7-633af7c7a48a\",\"$user_id\":8732575}}]"
+        },
+        {
+          "name": "mp_DATA",
+          "value": "{\"distinct_id\":8732575,\"$device_id\":\"0138b3fa-85df-47cb-a7b7-633af7c7a48a\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"__mps\":{},\"__mpso\":{},\"__mpus\":{},\"__mpa\":{},\"__mpu\":{},\"__mpr\":[],\"__mpap\":[],\"$user_id\":8732575,\"Device\":\"Desktop\",\"Company Code\":\"ODI\",\"Web Source\":\"RR Web\",\"Customer ID\":8732575,\"Customer Email\":\"shimarin@tes.cc\",\"Moengage User ID\":8732575,\"Member Level\":\"Gold\",\"IP\":\"180.244.128.61\",\"User Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36\"}"
+        },
+        {
+          "name": "__mpq_4d121bb79be4af686aa29040ffc19f99_ev",
+          "value": "[{\"id\":\"fmn6kmi6atk1vdid\",\"flushAfter\":1755311384372,\"payload\":{\"event\":\"View PCP\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$current_url\":\"https://beta.www.ruparupastg.my.id/c/furniture/kursi/kursi-makan.html?itm_source=megamenu-kursi-makan&itm_campaign=third-level&itm_device=desktop\",\"$browser_version\":139,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.67.0\",\"$insert_id\":\"ryx55kjm3p531ucx\",\"time\":1755311374.371,\"distinct_id\":8732575,\"$device_id\":\"0138b3fa-85df-47cb-a7b7-633af7c7a48a\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"$user_id\":8732575,\"Device\":\"Desktop\",\"Company Code\":\"ODI\",\"Web Source\":\"RR Web\",\"Customer ID\":8732575,\"Customer Email\":\"shimarin@tes.cc\",\"Moengage User ID\":8732575,\"Member Level\":\"Gold\",\"IP\":\"180.244.128.61\",\"User Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.5 Safari/537.36\",\"Name\":\"Kursi Makan\",\"Title\":\"c/furniture/kursi/kursi-makan.html?itm_source=megamenu-kursi-makan&itm_campaign=third-level&itm_device=desktop\",\"PCP Type\":\"Category Megamenu\",\"ITM Device\":\"desktop\",\"ITM Source\":\"megamenu-kursi-makan\",\"Page Number\":1,\"gideon_name\":\"Kursi Makan\",\"Geo Location Source\":\"Customer Address\",\"ITM Term\":\"none\",\"ITM Campaign\":\"third-level\",\"ITM Referral\":\"None\",\"Last Touch UTM Source\":\"None\",\"Last Touch UTM Medium\":\"None\",\"Last Touch UTM Campaign\":\"None\",\"Last Touch UTM Content\":\"None\",\"token\":\"4d121bb79be4af686aa29040ffc19f99\"}}}]"
+        }
+      ]
+    }
+  ]
+}
