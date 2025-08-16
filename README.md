@@ -63,7 +63,7 @@ git clone https://github.com/nandatarrasmita/ruparupa
 npm install
 ```
 
-2. Install Playwright browsers (Chromium, Firefox, WebKit):
+3. Install Playwright browsers (Chromium, Firefox, WebKit):
 
 ```bash
 npx playwright install
