@@ -54,8 +54,7 @@ This project automates the **Ruparupa furniture category** pages (e.g., `kursi m
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/ruparupa-playwright.git
-cd ruparupa-playwright
+git clone https://github.com/nandatarrasmita/ruparupa
 ```
 
 2. Install dependencies:
@@ -64,10 +63,10 @@ cd ruparupa-playwright
 npm install
 ```
 
-3. Compile TypeScript (optional):
+2. Install Playwright browsers (Chromium, Firefox, WebKit):
 
 ```bash
-npx tsc
+npx playwright install
 ```
 
 ---
@@ -83,7 +82,7 @@ npx playwright test
 ### Run a single test file
 
 ```bash
-npx playwright test tests/product.spec.ts
+npx playwright test tests/product-search.spec.ts
 ```
 
 ### Run tests in headed mode (with browser UI)
@@ -114,14 +113,6 @@ npx playwright test --headed
 2. Apply **Sort by Harga Terendah**.
 3. Fetch API data sorted by lowest price.
 4. Assert UI vs API consistency.
-
----
-
-## Notes
-
-* To prevent **UI inconsistencies**, use `productPage.reset()` in `beforeEach()` to clear cookies and local/session storage.
-* API endpoints are called via Axios with query parameters matching UI filters.
-* Some SecurityErrors occur if `localStorage`/`sessionStorage` is accessed across origins; always navigate to the same origin first.
 
 ---
 
